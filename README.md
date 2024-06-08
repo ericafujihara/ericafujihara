@@ -1,6 +1,5 @@
-# Olá! Eu sou a Érica Fujihara 🙋🏻‍♀️
-
-Que bom ter você por aqui!
+# Olá! 
+Eu sou a Érica 🙋🏻‍♀️, que bom ter você por aqui!
 
 Eu sou uma entusiasta pelo mundo de dados, ao longo da minha carreira desenvolvi habilidades para resolução de problemas de negócio e pesquisa através dos dados.
 
